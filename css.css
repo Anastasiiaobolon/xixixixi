@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #a4c298;
+}
+.container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.memes img {
+    width: 275px;
+    margin: 25px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.container {
+    width: 50%;
+    margin: 20px auto;
+    background:rgb(148, 184, 157);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
